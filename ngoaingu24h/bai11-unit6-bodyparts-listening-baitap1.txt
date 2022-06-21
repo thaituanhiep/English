@@ -1,0 +1,82 @@
+B
+1 head
+2 hair
+3 ear
+4 nose
+5 mouth
+6 shoulder
+7 stomach
+8 arm
+9 hand
+10 finger
+11 leg 
+12 feet
+
+C
+1 nose
+2 teeth
+3 foot
+4 feet
+5 ears
+6 hair
+
+C.2
+1 long hair
+2 curly hair
+3 brown hair
+4 straight hair
+5 blue eyes
+6 red lips
+
+C.3
+1. face
+2. toungue
+3. finger
+4. mouth
+5. stomach
+6. toe
+
+C.4
+1. shoulder
+2. nose
+3. toungue
+4. chest
+5. knee
+6. stomach
+
+C.5
+1. hand
+2. foot
+3. nose
+4. ears
+5. mouth
+6. legs
+7. eyes
+8. long hair, face
+
+C.6
+1. heads
+2. eyes
+3. noses
+4. mouth
+5. feet
+6. arms
+7. hands
+
+C.7
+1. A
+2. B
+3. B 
+4. B
+
+C.8
+1. A
+2. A
+3. B
+
+C.10
+1 Alex
+2 Flora
+3 Donna
+4 Charles
+5 Andy
